@@ -1,0 +1,70 @@
+.imghead
+	{
+		width: 100% ;
+	}
+.font1
+	{
+		font-family: times new roman ; color: black ;
+	} 
+
+.bgbody
+	{
+		background: #FFFFCC ;
+	}
+.imgcover
+	{
+		width: 100% ;
+	}
+.imgsejarah
+	{
+		width: 100% ;
+	}
+.imgindieindonesia
+	{
+		width: 100% ;
+	}
+.bgcopy
+	{
+		background: #339999 ;
+	}
+.fontcopy
+	{
+		font-family: comic sans ; color: white ;
+	}
+.bgtext
+	{
+		background: #339999;
+	}
+.bgbar
+	{
+		background: #3399CC; 
+	}
+.iklan
+	{
+		background: white;
+	 	width: 300px ; 
+	 	border-top: 0;
+	 	border-left: 5px;
+	 	border-right: 0;
+	 	border-bottom: 7px;  
+	 	padding: 10px 20px; 
+	 }
+
+
+
+.imgtentang1
+	{
+		width: 70%; 
+	}
+.imgtentang2
+	{
+		width: 70%; 
+	}
+.imgtentang3
+	{
+		width: 70%; 
+	}
+.imgtentang4
+	{
+		width: 70%; 
+	}
